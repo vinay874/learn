@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>I called with extension .web</h2>
+<h2>Automatic deployment happening</h2>
 </body>
 </html>

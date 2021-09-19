@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>I called with extension .htm</h2>
+<h2>Configured Automatic deployment</h2>
 </body>
 </html>
